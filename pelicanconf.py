@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Craig'
 SITENAME = 'Pelican'
-SITEURL = ''
+SITEURL = 'seancamden.github.io/pelican/'
 
 PATH = 'content'
 
@@ -33,5 +33,3 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-
-OUTPUT_PATH = 'docs/'
